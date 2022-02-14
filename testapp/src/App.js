@@ -7,7 +7,7 @@ const App = () => {
     return (
         <>
             <div className="tc">
-                <h1>ButtBuddies</h1> 
+                <h1>Friends of the Devil</h1> 
                 <SearchBox />
                 <CardList robots={robots} />
             </div>

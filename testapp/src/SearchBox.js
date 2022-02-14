@@ -6,7 +6,7 @@ const SearchBox = () => {
             <input 
                 className="pa3 ba b--green bg-lightest-blue"
                 type='search' 
-                placeholder='your mom`s name' 
+                placeholder='Friends of Mine' 
             />
         </div>
         
