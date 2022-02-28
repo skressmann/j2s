@@ -1,4 +1,4 @@
-import react, {Fragment} from "react";
+import react from "react";
 
 const SearchBox = () => {
     return (
